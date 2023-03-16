@@ -10,3 +10,15 @@ C:\Users\User\desktop\projects-EdiRosu\ApiLearning\Reactivities\Domain\obj\Debug
 C:\Users\User\desktop\projects-EdiRosu\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\User\desktop\projects-EdiRosu\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\User\desktop\projects-EdiRosu\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\User\Desktop\Projects\DemoApi\ApiLearning\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll

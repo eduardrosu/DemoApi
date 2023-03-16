@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDf0tuf8HWfE3DkmVlygDaKmBWnIU7hECPR7ZnYFa7Cap7fcGhEnKKs+UwtRwtePoKGeyiZDYngeRwliGR+sJQ==",
+  "dgSpecHash": "ZkbOZ722DoxIuav4SLmOZThYBJ08Za4kYFBAJ3mQWGXeZvSmvU2pbs3dD5nVGcAkcypyH1mB/eTKN8PqdrEw5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\desktop\\projects-EdiRosu\\ApiLearning\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Projects\\DemoApi\\ApiLearning\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
